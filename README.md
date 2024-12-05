@@ -26,12 +26,13 @@ This deep insights could be useful for coffee shop owners and managers to track 
 
 ![](https://github.com/user-attachments/assets/187b0661-408c-4ae4-b26c-e37055ec80d3)
 
-I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day on the calendar will be color-coded to represent sales volume with darker shades indicating higher sales.
+I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day on the calendar will be color-coded to represent sales volume with lighter shades indicating higher sales. 
 This powerful visualization tool can helps businesses track and analyze data over specific time periods, such as days, weeks, or months. In the context of a coffee sales performance dashboard for June 2023, the Calendar Dashboard can be used to track daily, weekly, or monthly sales, identify trends, and understand the performance of the coffee shop or business across various timeframes.
-
-
 
 ![](https://github.com/user-attachments/assets/d557c902-97dc-43bd-8188-65dbb2f16885)
 
-For this project I built a chart to identify and display the top 10 products base on the sales volume. 
+For this project I built a chart to identify and display the top 10 products base on the sales volume. A bar chart that shows the total sales for each product category over a specific time period, such as a week, month, or year. The x-axis represents total sales, and the y-axis represents product categories (Coffee, Backery, Tea, chocolate, etc).
+This bar chart help me quickly understand which categories are performing the best. For June month, Coffee sales category has contributed the maximum the sales for the particular product category with increase +7.3%, second is tea with increased +3,8%, and the third is bakery +3.7%. I can consider introducing more coffee varieties or promotions to further boost that category.
+While Package chocolate and flavour are performing decently, they only contribute to $2k. This might suggest that customers are not buying chocolate and flavour as often or are less aware of the offering. From product type bar chart we can see top ten total sales by product type, the maximum sales is barista espresso, second is brewed chai tea, third is gourment brewed coffee. To boost weak product sales, I could create more visibility for example  flavour by placing them closer to the checkout or offering bundled deals (e.g., discounted flavour with a coffee/tea). I could also introduce seasonal flavour or special offers to increase interest.
+
 
