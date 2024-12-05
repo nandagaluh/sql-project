@@ -21,8 +21,16 @@ The main objective of this analysis is to gain a deeper understanding of the sal
 > 4.  **Customer Engagement:** By identifying customer segments, businesses can tailor promotions and loyalty programs to increase customer retention.
 
 ## Dashboard
-I was able to get the model to predict the model
-For this project I built a chart to identify and display the top 10 products base on the sales volume. 
+I was able to get the model to predict the model 
+This deep insights could be useful for coffee shop owners and managers to track sales trends, identify growth opportunities, and optimize operations.
+
+I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day on the calendar will be color-coded to represent sales volume with darker shades indicating higher sales.
+This powerful visualization tool can helps businesses track and analyze data over specific time periods, such as days, weeks, and months. In the context of a coffee sales performance dashboard for June 2023, the Calendar Dashboard can be used to track daily, weekly, or monthly sales, identify trends, and understand the performance of the coffee shop or business across various timeframes.
+
 ![](https://github.com/user-attachments/assets/187b0661-408c-4ae4-b26c-e37055ec80d3)
-I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day 
+
+For this project I built a chart to identify and display the top 10 products base on the sales volume. 
+
 ![](https://github.com/user-attachments/assets/d557c902-97dc-43bd-8188-65dbb2f16885)
+
+
