@@ -20,5 +20,9 @@ The main objective of this analysis is to gain a deeper understanding of the sal
 > 3.  **Sales Forecasting:** Historical sales trends can be used to project future sales and adjust inventory levels accordingly.
 > 4.  **Customer Engagement:** By identifying customer segments, businesses can tailor promotions and loyalty programs to increase customer retention.
 
+## Dashboard
+I was able to get the model to predict the model
+For this project I built a chart to identify and display the top 10 products base on the sales volume. 
 ![](https://github.com/user-attachments/assets/187b0661-408c-4ae4-b26c-e37055ec80d3)
+I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day 
 ![](https://github.com/user-attachments/assets/d557c902-97dc-43bd-8188-65dbb2f16885)
