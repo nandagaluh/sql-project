@@ -1,14 +1,14 @@
 # COFFEE SALES PERFORMANCE ANALYSIS
 
 ## About
-The Coffee Sales Performance Analysis project aims to analyze and evaluate the sales data for a portfolio of coffee products across various locations, customer segments, and time periods. By leveraging SQL and data analysis techniques, this project provides insights into the performance of coffee sales, helping stakeholders make data-driven decisions to optimize sales strategies, marketing campaigns, and product offerings.
+The Coffee Sales Performance Analysis project aims to analyze and evaluate the sales data for a portfolio of coffee products across various locations, customer segments, and time periods. By leveraging SQL and data analysis techniques, this project provides insight into the performance of coffee sales, helping stakeholders make data-driven decisions to optimize sales strategies, marketing campaigns, and product offerings.
 
 ## Objective of The Project
 The main objective of this analysis is to gain a deeper understanding of the sales trends, key drivers of revenue, and the overall performance of the coffee portfolio. Specifically.
 
 ## Methodology
 > The analysis utilizes SQL queries to aggregate and manipulate the data, focusing on the following key metrics and dimensions:
-> 1. **Revenue Analysis :** Calculating total revenue for each product, region, and customer segment by multiplying quantity sold by price, then summing it up.
+> 1. **Total sales Analysis :** Calculating total sales for each product, location, and customer segment by multiplying quantity sold by price, then summing it up.
 > 2. **Growth Trends:** Analyzing sales growth over time (monthly or yearly) to identify upward or downward trends.
 > 3. **Customer Segmentation:** Grouping customers based on type (e.g., regular vs. loyal) and analyzing their impact on sales.
 > 4. **Profitability:** Comparing revenue with product cost to determine the profit margin for each coffee product.
