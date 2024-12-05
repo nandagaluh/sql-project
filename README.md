@@ -40,6 +40,7 @@ While Package chocolate and flavour are performing decently, they only contribut
 
 ## Strategic Decisions
 > From analyzing the coffee sales performance above, We can take several strategic action :
-> **1.  Focuse on Maximum sales category :**  As it’s the top performer, We will ensure that coffee is always stocked, and promotions target coffee products. We could also expand the coffee menu, adding seasonal or premium coffee offerings.
-> **2.  Optimizing Inventory and Staff:** By tracking sales trends, I can anticipate demand more effectively. For example, knowing that weekends tend to see higher sales, I can increase inventory levels of popular items like pastries and coffee beans.
+
+> **1. Focuse on Maximum sales category :**  As it’s the top performer, We will ensure that coffee is always stocked, and promotions target coffee products. We could also expand the coffee menu, adding seasonal or premium coffee offerings.
+> **2. Optimizing Inventory and Staff:** By tracking sales trends, I can anticipate demand more effectively. For example, knowing that weekends tend to see higher sales, I can increase inventory levels of popular items like pastries and coffee beans.
 > **3.  Planning for the Next Month:** Understanding the impact of promotions and launches can help us plan for future marketing activities or product introductions. If the new iced coffee line performed well in June, it might be a good idea to plan for more seasonal offerings.
