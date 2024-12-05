@@ -27,7 +27,8 @@ This deep insights could be useful for coffee shop owners and managers to track 
 ![](https://github.com/user-attachments/assets/187b0661-408c-4ae4-b26c-e37055ec80d3)
 
 I implement the calendar hit map that dynamically adjust based on the selected month from a slicer. from each day on the calendar will be color-coded to represent sales volume with lighter shades indicating higher sales. 
-This powerful visualization tool can helps businesses track and analyze data over specific time periods, such as days, weeks, or months. In the context of a coffee sales performance dashboard for June 2023, the Calendar Dashboard can be used to track daily, weekly, or monthly sales, identify trends, and understand the performance of the coffee shop or business across various timeframes.
+This powerful visualization tool can helps businesses track and analyze data over specific time periods, such as days, weeks, or months. In the context of a coffee sales performance dashboard for June 2023, the Calendar Dashboard can be used to track daily, weekly, or monthly sales, identify trends, and understand the performance of the coffee shop or business across various timeframes. 
+From total sales by weekend/weekday, we can see the insights into wether sales pattern differ significantly betweend weekdays and weekends. A bar char sales by strore location visualize sales data by different strore location and month on month sales increase for each store location to identify trends. 
 
 ![](https://github.com/user-attachments/assets/d557c902-97dc-43bd-8188-65dbb2f16885)
 
